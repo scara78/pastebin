@@ -1,1 +1,6 @@
 
+{
+    "name": "pastebin",
+    "description": "One-click personal pastebin.",
+    "runtime": "python3.9"
+}
